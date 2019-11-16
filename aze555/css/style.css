@@ -1,0 +1,267 @@
+.boss {
+    text-align: center;
+    background: url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/bg-masthead.jpg);
+    padding: 220px 0;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.boss h1{
+    font-weight: bold;
+    color: #212529;
+    font-size: 88px;
+    margin: 0;
+}
+.boss h3 {
+    color: #212529;
+    margin: 0;
+    font-size: 28px;
+    font-weight: bold;
+}
+.boss button:hover{
+    background: royalblue;
+}
+.boss button{
+  color: #ffffff;
+  font-size: 16px;
+  background: #1d809f;
+  border-radius: 5px;
+  border: none;
+  margin-top: 20px;
+  padding: 20px 40px;
+  font-weight: bold;
+
+}
+.boss1{
+    text-align: center;
+    padding: 100px 0;
+
+}
+.boss1 h2{
+    text-align: center;
+    color: #212529;
+    font-size: 32px;
+    margin: 0px 0px 8px;
+}
+.boss1 h4{
+    color: #212529;
+    font-size: 20px;
+    margin: 0px 0px 48px;
+
+}
+.boss1 button:hover{
+    background: blue;
+}
+.boss1 button{
+    color: #ffffff;
+    font-size: 16px;
+    background: #343a40;
+    padding: 20px 40px;
+}
+#blue{
+    background: #1d809f;
+    padding-bottom: 9rem;
+}
+#blue .blue-text{
+    text-align: center;
+}
+#blue .blue-text h3{
+    color: #ECB807;
+    font-size: 16px;
+    margin: 0px;
+}
+#blue .blue-text h2{
+    color: #ffffff;
+    font-size: 48px;
+    margin: 0px;
+}
+.all{
+    margin: auto;
+    margin-top: 50px;
+}
+.all .bos{
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+
+.all .bos i{
+    background: #fff;
+    color: #1D809F;
+    font-size: 20px;
+    border-radius: 50px;
+    padding: 17px;
+    cursor: pointer;
+}
+.all .bos .telefon{
+    background: #fff;
+    color: #1D809F;
+    font-size: 20px;
+    border-radius: 50px;
+    padding: 17px 22px;
+}
+.all .bos .sahmat{
+    background: #fff;
+    color: #1D809F;
+    font-size: 20px;
+    border-radius: 50px;
+    padding: 17px 20px;
+}
+
+.bos h4{
+    color: #ffffff;
+    font-weight: bold;
+}
+.bos p{
+    color: #ffffff;
+}
+
+.boss2{
+    text-align: center;
+    background: url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/bg-callout.jpg);
+    padding: 240px 0px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.boss2 h2{
+    color: #212529;
+    font-size: 56px;
+    margin: 0px 215px 48px;
+}
+.boss2 button{
+    color: #ffffff;
+  font-size: 16px;
+  background: #1d809f;
+  border-radius: 5px;
+  border: none;
+  margin-top: 20px;
+  padding: 20px 40px;
+  font-weight: bold;
+
+}
+
+.boss2 button:hover{
+ background: navy;
+}
+
+
+#Projects .Projects-text{
+ text-align: center;
+}
+#Projects .Projects-text h3{
+    color: #ECB807;
+    font-size: 16px;
+    margin: 0px;
+}
+#Projects .Projects-text h2{
+    color: #212529;
+    font-size: 48px;
+    margin: 0px;
+}
+
+
+
+.qutu{
+    margin: auto;
+    width: 80%;
+}
+
+.hover{
+    width: 50%;
+    float: left;
+    position: relative;
+}
+.hover img{
+    width: 100%;
+}
+.qutu .qutu-text{
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+    color: #fff;
+}
+
+
+#buttons{
+    background: #1D809F;
+    margin-top: 45rem;
+    text-align: center;
+    padding: 5rem 0;
+}
+#buttons h2{
+    color: #fff;
+    font-size: 32px;
+    margin: 0px 0px 24px;
+}
+
+#buttons button{
+    background: rgb(218, 7, 7);
+    color: #fff;
+    padding: 15px 32px;
+    border: none;
+    cursor: pointer;
+    transition: cubic-bezier(0.19, 1, 0.22, 1);
+
+}
+
+#buttons button:hover{
+    background: #ECB807;
+    color: black;
+
+}
+
+
+
+.hover{
+   transform: 5s;
+}
+
+.hover:hover{
+    transform: scale(0.9);
+    opacity: 0.5;
+    
+}
+
+
+#social i{
+    background: #1D809F;
+    font-size: 20px;
+    border-radius: 50px;
+    padding: 20px;
+    color: #fff;
+    margin: 0 15px;
+   margin-top: 37px;
+   cursor: pointer;
+}
+
+#social i:hover{
+    background: #07556d;;
+}
+#social .twitter:hover{
+    background: #343a40;
+}
+
+
+#social .fb{
+    background: #1D809F;
+    font-size: 20px;
+    border-radius: 50px;
+    padding: 20px 25px;
+    color: #fff;
+}
+#social{
+    text-align: center;
+}
+
+
+
+.boss3{
+    text-align: center;
+    font-size: 80%;
+    color: rgb(53, 59, 65);
+    margin-top: 50px;
+}
+
+
+
